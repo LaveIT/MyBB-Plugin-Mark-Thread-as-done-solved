@@ -1,0 +1,11 @@
+(English: Please insert the following code into the global.css of your theme)
+(German: Bitte füge den unteren Code in deiner global.css deines Themes ein)
+
+
+/* Thread-Solved-Buttons */
+a.button.thread_solved span {
+	background-position: 0 -560px;
+}
+a.button.thread_notsolved span {
+	background-position: 0 -580px;
+}
